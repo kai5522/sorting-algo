@@ -32,7 +32,7 @@ body {
   display: flex;
   position: relative;
   height: 300px;
-  background: #ffafcc;
+  background: #182c37;
   padding: 10px;
   border-radius: 5px;
   align-items: flex-end;
@@ -89,7 +89,7 @@ body {
 }
 
 button {
-  background: #ea4c89;
+  background: #1a0e5f;
   border-radius: 8px;
   border-style: none;
   color: #FFF;
@@ -99,7 +99,7 @@ button {
 }
 
 button:hover {
-  background: #f082ac;
+  background: #2e3a54;
 }
 
 .select-algorithm {
